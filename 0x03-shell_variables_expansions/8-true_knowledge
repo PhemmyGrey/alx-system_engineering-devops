@@ -1,2 +1,2 @@
 #!/bin/bash
-let TRUEKNOWLEDGE="1+2+8"
+echo -e $((128 + TRUEKNOWLEDGE))
